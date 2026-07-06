@@ -1,13 +1,10 @@
-## Hi there 👋
+## Hi, I'm Chloe 👋
 
-
-Here are some ideas to get you started:
-
-Hi, I'm Chloe 👋
 
 Software Engineer | Full Stack Developer
 
 💻 Java • Spring Boot • Angular • SQL • MongoDB
+
 🤖 AI-powered Applications
 
 Currently building:
