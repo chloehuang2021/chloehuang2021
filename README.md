@@ -3,7 +3,7 @@
 Full Stack Software Engineer passionate about building scalable web applications and AI-powered tools.
 
 ### Tech Stack
-Java • Spring Boot • Angular • SQL • MongoDB • Python
+Java • Spring Boot • Angular • SQL • MongoDB • Python • Docker
 
 ### Currently Building
 - **OpsIQ** — AI-Powered IT Ticket Triage System
