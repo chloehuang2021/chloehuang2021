@@ -11,7 +11,8 @@ Currently building:
 ⭐ OpsIQ – AI Ticket Triage System
 
 
-Portfolio: chloehuangcodes.com
+Portfolio: [chloehuangcodes.com](https://www.chloehuangcodes.com)
+
 LinkedIn: http://www.linkedin.com/in/chloe-huang-tech
 
 <!--
