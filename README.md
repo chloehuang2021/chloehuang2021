@@ -1,19 +1,16 @@
-## Hi, I'm Chloe 👋
+# Hi, I'm Chloe 👋
 
+Full Stack Software Engineer passionate about building scalable web applications and AI-powered tools.
 
-Software Engineer | Full Stack Developer
+### Tech Stack
+Java • Spring Boot • Angular • SQL • MongoDB • Python
 
-💻 Java • Spring Boot • Angular • SQL • MongoDB
+### Currently Building
+- **OpsIQ** — AI-Powered IT Ticket Triage System
 
-🤖 AI-powered Applications
-
-Currently building:
-
-⭐ OpsIQ – AI Ticket Triage System
-
-
-Portfolio: [chloehuangcodes.com](https://www.chloehuangcodes.com)
-LinkedIn: http://www.linkedin.com/in/chloe-huang-tech
+### Connect
+🌐 Portfolio: https://www.chloehuangcodes.com  
+💼 LinkedIn: https://www.linkedin.com/in/chloe-huang-tech
 
 
 
