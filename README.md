@@ -8,12 +8,14 @@ Software Engineer | Full Stack Developer
 🤖 AI-powered Applications
 
 Currently building:
+
 ⭐ OpsIQ – AI Ticket Triage System
 
 
 Portfolio: [chloehuangcodes.com](https://www.chloehuangcodes.com)
-
 LinkedIn: http://www.linkedin.com/in/chloe-huang-tech
+
+
 
 <!--
 **chloehuang2021/chloehuang2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
