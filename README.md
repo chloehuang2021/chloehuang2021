@@ -1,5 +1,11 @@
 # Hi, I'm Chloe 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF5FF,100:C8DFFF&height=220&section=header&text=Chloe%20Huang&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF5FF,100:C8DFFF&height=220&section=header&text=Chloe%20Huang&fontSize=50&fontColor=1E3A5F" width="100%">
+
+<p align="center">
+  <a href="https://www.chloehuangcodes.com">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-chloehuangcodes.com-EAF4FF?style=for-the-badge&logo=googlechrome&logoColor=4A6FA5&labelColor=F8FBFF" />
+  </a>
+</p>
 
 Full Stack Software Engineer passionate about building scalable web applications and AI-powered tools.
 
