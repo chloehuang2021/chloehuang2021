@@ -1,4 +1,5 @@
 # Hi, I'm Chloe 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF5FF,100:C8DFFF&height=220&section=header&text=Chloe%20Huang&fontSize=50"/>
 
 Full Stack Software Engineer passionate about building scalable web applications and AI-powered tools.
 
@@ -12,7 +13,6 @@ Java • Spring Boot • Angular • SQL • MongoDB • Python • Docker
 🌐 Portfolio: https://www.chloehuangcodes.com  
 💼 LinkedIn: https://www.linkedin.com/in/chloe-huang-tech
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF5FF,100:C8DFFF&height=220&section=header&text=Chloe%20Huang&fontSize=50"/>
 
 <!--
 **chloehuang2021/chloehuang2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
