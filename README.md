@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/badge/🌐%20Portfolio-chloehuangcodes.com-EAF4FF?style=for-the-badge&logo=googlechrome&logoColor=4A6FA5&labelColor=F8FBFF" />
   </a>
 </p>
-
 Full Stack Software Engineer passionate about building scalable web applications and AI-powered tools.
 
 ### Tech Stack
