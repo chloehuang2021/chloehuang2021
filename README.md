@@ -18,6 +18,26 @@ Building full-stack software with Java, AI, and modern cloud technologies.
 
 ### Tech Stack
 Java • Spring Boot • Angular • SQL • MongoDB • Python • Docker
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-EAF4FF?style=for-the-badge&logo=openjdk&logoColor=4A6FA5&labelColor=F8FBFF" />
+  <img src="https://img.shields.io/badge/Spring_Boot-EAF4FF?style=for-the-badge&logo=springboot&logoColor=4A6FA5&labelColor=F8FBFF" />
+  <img src="https://img.shields.io/badge/Angular-EAF4FF?style=for-the-badge&logo=angular&logoColor=4A6FA5&labelColor=F8FBFF" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-EAF4FF?style=for-the-badge&logo=postgresql&logoColor=4A6FA5&labelColor=F8FBFF" />
+  <img src="https://img.shields.io/badge/MySQL-EAF4FF?style=for-the-badge&logo=mysql&logoColor=4A6FA5&labelColor=F8FBFF" />
+  <img src="https://img.shields.io/badge/MongoDB-EAF4FF?style=for-the-badge&logo=mongodb&logoColor=4A6FA5&labelColor=F8FBFF" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-EAF4FF?style=for-the-badge&logo=python&logoColor=4A6FA5&labelColor=F8FBFF" />
+  <img src="https://img.shields.io/badge/Docker-EAF4FF?style=for-the-badge&logo=docker&logoColor=4A6FA5&labelColor=F8FBFF" />
+  <img src="https://img.shields.io/badge/OpenRouter-EAF4FF?style=for-the-badge&logo=openai&logoColor=4A6FA5&labelColor=F8FBFF" />
+</p>
+
 
 
 ### Currently Building
@@ -26,10 +46,6 @@ Java • Spring Boot • Angular • SQL • MongoDB • Python • Docker
 🐳 learning Docker
 
 🩵 exploring AWS
-
-### Connect
-🌐 Portfolio: https://www.chloehuangcodes.com  
-💼 LinkedIn: https://www.linkedin.com/in/chloe-huang-tech
 
 
 
