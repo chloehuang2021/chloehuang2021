@@ -1,4 +1,4 @@
-# Hi, I'm Chloe 👋
+# Aloha 👋🌊
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF5FF,100:C8DFFF&height=120&section=header&text=Chloe%20Huang&fontSize=50&fontColor=1E3A5F" width="100%">
 
 <p align="center">
@@ -13,13 +13,12 @@ Building full-stack software with Java, AI, and modern cloud technologies.
 Java • Spring Boot • Angular • SQL • MongoDB • Python • Docker
 
 
-### 🩵 Currently Building
+### Currently Building
 ☁️ building OpsIQ  —  AI-powered ticket triage platform powered by Spring Boot + Angular + LLM.
 
 🐳 learning Docker
 
-☁️ exploring AWS
-- **OpsIQ** —  AI-powered ticket triage platform powered by Spring Boot + Angular + LLM.
+🩵 exploring AWS
 
 ### Connect
 🌐 Portfolio: https://www.chloehuangcodes.com  
