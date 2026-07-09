@@ -5,7 +5,14 @@
   <a href="https://www.chloehuangcodes.com">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-chloehuangcodes.com-EAF4FF?style=for-the-badge&logo=googlechrome&logoColor=4A6FA5&labelColor=F8FBFF" />
   </a>
+
+  <a href="https://www.linkedin.com/in/chloe-huang-tech">
+    <img src="https://img.shields.io/badge/LinkedIn-chloe--huang--tech-EAF4FF?style=for-the-badge&logo=linkedin&logoColor=4A6FA5&labelColor=F8FBFF" />
+  </a>
 </p>
+
+
+
 Building full-stack software with Java, AI, and modern cloud technologies.
 
 
