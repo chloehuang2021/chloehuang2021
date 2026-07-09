@@ -17,8 +17,6 @@ Building full-stack software with Java, AI, and modern cloud technologies.
 
 
 ### Tech Stack
-Java • Spring Boot • Angular • SQL • MongoDB • Python • Docker
-### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-EAF4FF?style=for-the-badge&logo=openjdk&logoColor=4A6FA5&labelColor=F8FBFF" />
