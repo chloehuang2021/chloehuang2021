@@ -1,5 +1,5 @@
 # Hi, I'm Chloe 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF5FF,100:C8DFFF&height=220&section=header&text=Chloe%20Huang&fontSize=50&fontColor=1E3A5F" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF5FF,100:C8DFFF&height=120&section=header&text=Chloe%20Huang&fontSize=50&fontColor=1E3A5F" width="100%">
 
 <p align="center">
   <a href="https://www.chloehuangcodes.com">
@@ -13,9 +13,12 @@ Full Stack Software Engineer passionate about building scalable web applications
 Java • Spring Boot • Angular • SQL • MongoDB • Python • Docker
 
 
-### Currently Building
+### ☁️ Currently Building
 - **OpsIQ** — AI-Powered IT Ticket Triage System
 
+Building OpsIQ —
+AI-powered ticket triage platform
+powered by Spring Boot + Angular + LLM.
 
 ### Connect
 🌐 Portfolio: https://www.chloehuangcodes.com  
