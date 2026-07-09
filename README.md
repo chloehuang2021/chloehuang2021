@@ -8,15 +8,20 @@
 </p>
 Full Stack Software Engineer passionate about building scalable web applications and AI-powered tools.
 
+
 ### Tech Stack
 Java • Spring Boot • Angular • SQL • MongoDB • Python • Docker
+
 
 ### Currently Building
 - **OpsIQ** — AI-Powered IT Ticket Triage System
 
+
 ### Connect
 🌐 Portfolio: https://www.chloehuangcodes.com  
 💼 LinkedIn: https://www.linkedin.com/in/chloe-huang-tech
+
+
 
 
 <!--
