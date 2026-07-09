@@ -7,7 +7,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/chloe-huang-tech">
-    <img src="https://img.shields.io/badge/LinkedIn-chloe--huang--tech-EAF4FF?style=for-the-badge&logo=linkedin&logoColor=4A6FA5&labelColor=F8FBFF" />
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-chloe--huang--tech-EAF4FF?style=for-the-badge&logo=linkedin&logoColor=4A6FA5&labelColor=F8FBFF" />
   </a>
 </p>
 
