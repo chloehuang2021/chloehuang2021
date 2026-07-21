@@ -46,6 +46,9 @@ Building full-stack software with Java, AI, and modern cloud technologies.
 🩵 exploring AWS
 
 
+## 🐍 Contribution Snake
+
+![GitHub contribution snake](https://raw.githubusercontent.com/chloehuang2021/chloehuang2021/output/github-contribution-grid-snake.svg)
 
 
 <!--
