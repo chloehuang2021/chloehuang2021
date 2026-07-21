@@ -1,4 +1,4 @@
-# Aloha 👋🌊
+# Hello 👋🌊
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF5FF,100:C8DFFF&height=120&section=header&text=Chloe%20Huang&fontSize=50&fontColor=1E3A5F" width="100%">
 
 <p align="center">
