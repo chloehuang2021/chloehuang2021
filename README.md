@@ -39,7 +39,7 @@ Building full-stack software with Java, AI, and modern cloud technologies.
 
 
 ### Currently Building
-☁️ building OpsIQ  —  AI-powered ticket triage platform powered by Spring Boot + Angular + LLM.
+☁️ OpsIQ - AI Ticket Triage :  AI-powered ticket triage platform powered by Spring Boot + Angular + LLM.
 
 
 
