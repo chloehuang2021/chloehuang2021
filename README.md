@@ -48,6 +48,8 @@ Building full-stack software with Java, AI, and modern cloud technologies.
 ![GitHub contribution snake](https://raw.githubusercontent.com/chloehuang2021/chloehuang2021/output/github-contribution-grid-snake.svg)
 
 
+
+
 <!--
 **chloehuang2021/chloehuang2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
